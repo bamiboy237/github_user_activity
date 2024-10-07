@@ -39,3 +39,5 @@ Output: Finally, it prints the recent actions performed by the specified user.
 
 ####### Contributing
 Feel free to submit issues or pull requests if you would like to contribute to this project.
+
+Project Link: https://roadmap.sh/projects/github-user-activity
